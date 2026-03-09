@@ -1,0 +1,106 @@
+[
+    {
+        "id": "restaurants",
+        "name": "Restaurants",
+        "slug": "restaurants",
+        "icon": "Utensils",
+        "description": "Authentic Malabar flavors and global culinary experiences.",
+        "count": 12
+    },
+    {
+        "id": "cafes",
+        "name": "Cafes",
+        "slug": "cafes",
+        "icon": "Coffee",
+        "description": "Premium coffee houses and relaxed social spaces.",
+        "count": 8
+    },
+    {
+        "id": "hotels",
+        "name": "Hotels",
+        "slug": "hotels",
+        "icon": "Building",
+        "description": "Comfortable urban stays and luxury city hotels.",
+        "count": 10
+    },
+    {
+        "id": "resorts",
+        "name": "Resorts",
+        "slug": "resorts",
+        "icon": "Palmtree",
+        "description": "Luxury forest retreats and nature-integrated escapes.",
+        "count": 8
+    },
+    {
+        "id": "homestays",
+        "name": "Homestays",
+        "slug": "homestays",
+        "icon": "Home",
+        "description": "Experience local hospitality in traditional Nilambur homes.",
+        "count": 6
+    },
+    {
+        "id": "waterfalls",
+        "name": "Waterfalls",
+        "slug": "waterfalls",
+        "icon": "Waves",
+        "description": "Pristine cascades hidden within the Western Ghats.",
+        "count": 12
+    },
+    {
+        "id": "parks",
+        "name": "Parks",
+        "slug": "parks",
+        "icon": "Trees",
+        "description": "Lush botanical gardens and community recreation spaces.",
+        "count": 6
+    },
+    {
+        "id": "viewpoints",
+        "name": "Viewpoints",
+        "slug": "viewpoints",
+        "icon": "Mountain",
+        "description": "Breathtaking panoramic vistas of the valley and rainforest.",
+        "count": 5
+    },
+    {
+        "id": "shopping",
+        "name": "Shopping",
+        "slug": "shopping",
+        "icon": "ShoppingBag",
+        "description": "Local markets, boutiques, and teak craft outlets.",
+        "count": 15
+    },
+    {
+        "id": "fuel",
+        "name": "Fuel Stations",
+        "slug": "fuel",
+        "icon": "Fuel",
+        "description": "Strategically located fuel and EV charging stations.",
+        "count": 10
+    },
+    {
+        "id": "hospitals",
+        "name": "Hospitals",
+        "slug": "hospitals",
+        "icon": "Cross",
+        "description": "24/7 medical facilities and multi-specialty healthcare.",
+        "count": 6
+    },
+    {
+        "id": "banks",
+        "name": "Banks & ATMs",
+        "slug": "banks",
+        "icon": "Banknote",
+        "description": "Secure banking services and widespread ATM network.",
+        "count": 20
+    },
+    {
+        "id": "emergency",
+        "name": "Emergency Services",
+        "slug": "emergency",
+        "icon": "AlertTriangle",
+        "description": "Fire, Police, and 24/7 emergency support contact points.",
+        "count": 4
+    }
+]

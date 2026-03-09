@@ -1,0 +1,337 @@
+[
+    {
+        "id": "teak-museum",
+        "name": "Conolly's Plot & Teak Museum",
+        "slug": "teak-museum",
+        "category": "parks",
+        "rating": 4.8,
+        "featured": true,
+        "coordinates": [
+            11.2774,
+            76.2238
+        ],
+        "priceRange": "$",
+        "images": [
+            "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "description": "Primary Teak Preservation Stratum No. 1. A global heritage index and comprehensive architectural museum dedicated to the taxonomic history of teak. Established in 1846 as the prototype for scientific timber governance.",
+        "shortDescription": "Institutional Teak Preservation Stratum.",
+        "location": "Vadakanthara, Nilambur",
+        "openStatus": "Open",
+        "openHours": "09:00 - 17:00",
+        "contact": "+91 4931 220218",
+        "amenities": [
+            "Curated Intelligence Tours",
+            "Preservation Museum",
+            "Infrastructure Parking",
+            "Temporal Registry Exhibit"
+        ],
+        "visitorInfo": "Registry Hours: 09:00 - 17:00. Adhere to preservation protocols.",
+        "history": "Established in 1846 by the Malabar Collectorate as a strategic timber reserve for long-term naval logistics."
+    },
+    {
+        "id": "nedumkayam-rainforest",
+        "name": "Nedumkayam Rainforest",
+        "slug": "nedumkayam-rainforest",
+        "category": "viewpoints",
+        "rating": 4.9,
+        "featured": true,
+        "coordinates": [
+            11.3524,
+            76.2738
+        ],
+        "priceRange": "$",
+        "description": "The Nilgiri Biosphere Strategic Reserve. A high-density botanical sanctuary characterized by indigenous canopy strata and protected wildlife corridors.",
+        "shortDescription": "Biosphere Strategic Reserve Stratum.",
+        "location": "Karulai, Nilambur",
+        "openStatus": "Open",
+        "openHours": "08:00 - 16:00",
+        "contact": "+91 4931 220006",
+        "amenities": [
+            "Strategic Trekking",
+            "Biological Surveillance",
+            "Historic Logistics House",
+            "Hydrological Access Matrix"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&q=80&w=1200"
+        ]
+    },
+    {
+        "id": "adukkala-restaurant",
+        "name": "Adukkala - The Traditional Kitchen",
+        "slug": "adukkala-restaurant",
+        "category": "restaurants",
+        "rating": 4.5,
+        "featured": true,
+        "coordinates": [
+            11.2741,
+            76.2291
+        ],
+        "priceRange": "$$",
+        "description": "A curated culinary laboratory specializing in Malabar Gastronomic Intelligence. Heritage recipes executed with traditional Kerala thermodynamic protocols.",
+        "shortDescription": "Malabar Gastronomic Intelligence Lab.",
+        "location": "Main Road, Nilambur",
+        "openStatus": "Open",
+        "openHours": "12:00 - 22:00",
+        "contact": "+91 94477 12345",
+        "amenities": [
+            "Heritage Dining Protocol",
+            "Atmospheric Climate Stratum",
+            "Asset Parking",
+            "Strategic Takeaway Axis"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&q=80&w=1200"
+        ]
+    },
+    {
+        "id": "teak-city-hotel",
+        "name": "Teak City Hotel",
+        "slug": "teak-city-hotel",
+        "category": "hotels",
+        "rating": 4.3,
+        "featured": false,
+        "coordinates": [
+            11.2785,
+            76.2265
+        ],
+        "priceRange": "$$",
+        "images": [
+            "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "description": "Civic Hospitality Asset No. 4. A contemporary hospitality node offering engineered Kerala and Continental culinary matrices in the heart of the Nilambur urban grid.",
+        "shortDescription": "Civic Hospitality Asset.",
+        "location": "CNG Road, Nilambur",
+        "openStatus": "Open",
+        "openHours": "10:30 - 23:00",
+        "contact": "+91 4931 221000",
+        "amenities": [
+            "Matrix Dining",
+            "Digital Connectivity",
+            "Precision Parking"
+        ]
+    },
+    {
+        "id": "emerald-resort",
+        "name": "Emerald Wild West Resort",
+        "slug": "emerald-resort",
+        "category": "resorts",
+        "rating": 4.7,
+        "featured": true,
+        "coordinates": [
+            11.3125,
+            76.1982
+        ],
+        "priceRange": "$$$",
+        "images": [
+            "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "description": "Luxury Seclusion Protocol. A premium riverfront retreat situated on the banks of the Chaliyar Hydrological Stratum, engineered for comprehensive restoration.",
+        "shortDescription": "Luxury Seclusion Protocol.",
+        "location": "Pullipadam, Nilambur",
+        "openStatus": "Open",
+        "openHours": "24 Hours",
+        "contact": "+91 98450 12345",
+        "amenities": [
+            "Hydrological Basin",
+            "Restoration Spa",
+            "Wilderness Surveillance",
+            "Registry Views"
+        ]
+    },
+    {
+        "id": "adityan-falls",
+        "name": "Adityan Waterfalls",
+        "slug": "adityan-falls",
+        "category": "waterfalls",
+        "rating": 4.6,
+        "featured": false,
+        "coordinates": [
+            11.3340,
+            76.2850
+        ],
+        "priceRange": "$",
+        "images": [
+            "https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "description": "Hydrological Landmark. A sequestered natural asset providing an unadulterated escape into the Karulai Forest preservation stratum.",
+        "shortDescription": "Sequestered Hydrological Asset.",
+        "location": "Karulai Forest, Nilambur",
+        "openStatus": "Open",
+        "openHours": "08:00 - 17:00",
+        "contact": "Forest Bureau",
+        "amenities": [
+            "Sanctuary Trail",
+            "Visual Archive Spot",
+            "Strategy Point"
+        ]
+    },
+    {
+        "id": "teak-cafe",
+        "name": "The Teak Cafe",
+        "slug": "teak-cafe",
+        "category": "cafes",
+        "rating": 4.5,
+        "featured": true,
+        "coordinates": [
+            11.2765,
+            76.2245
+        ],
+        "priceRange": "$$",
+        "images": [
+            "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "description": "Artisanal Intelligence node. A minimalist hospitality asset known for technical extraction protocols and locally indexed culinary treats.",
+        "shortDescription": "Artisanal Intelligence Hub.",
+        "location": "Ooty Road, Nilambur",
+        "openStatus": "Open",
+        "openHours": "08:00 - 21:00",
+        "contact": "+91 94460 11111",
+        "amenities": [
+            "Digital Access",
+            "Atmospheric Seating",
+            "Extraction Specialties"
+        ]
+    },
+    {
+        "id": "nilambur-coop-hospital",
+        "name": "Nilambur Cooperative Hospital",
+        "slug": "nilambur-hospital",
+        "category": "hospitals",
+        "rating": 4.2,
+        "featured": false,
+        "coordinates": [
+            11.2755,
+            76.2274
+        ],
+        "priceRange": "$$",
+        "images": [
+            "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "description": "Health Logistics Hub. A multi-specialty regional center providing constant emergency protocols and medical surveillance.",
+        "shortDescription": "Health Logistics Hub.",
+        "location": "Hospital Road, Nilambur",
+        "openStatus": "Open",
+        "openHours": "24 Hours",
+        "contact": "+91 4931 222500",
+        "amenities": [
+            "Emergency Registry",
+            "Medical Archive",
+            "Bio Lab",
+            "Logistics Transport"
+        ]
+    },
+    {
+        "id": "sbi-nilambur",
+        "name": "SBI Nilambur & 24/7 ATM",
+        "slug": "sbi-nilambur",
+        "category": "banks",
+        "rating": 4.1,
+        "featured": false,
+        "coordinates": [
+            11.2730,
+            76.2240
+        ],
+        "priceRange": "$",
+        "images": [
+            "https://images.unsplash.com/photo-1620714223084-8fcacc6dfd8d?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "description": "Financial Infrastructure Node. Institutional banking services with a 24-hour automated teller registry.",
+        "shortDescription": "Financial Infrastructure Hub.",
+        "location": "Main Road, Nilambur",
+        "openStatus": "Open",
+        "openHours": "10:00 - 16:00 (Registry 24h)",
+        "contact": "+91 4931 220033",
+        "amenities": [
+            "Automated Registry",
+            "Exchange Protocol",
+            "Security Vault"
+        ]
+    },
+    {
+        "id": "police-station",
+        "name": "Nilambur Police Station",
+        "slug": "police-station",
+        "category": "emergency",
+        "rating": 4.5,
+        "featured": false,
+        "coordinates": [
+            11.2715,
+            76.2222
+        ],
+        "priceRange": "-",
+        "images": [
+            "https://images.unsplash.com/photo-1594911776742-19c237894380?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "description": "Regional Security Protocol. Primary law enforcement and emergency response command for the Nilambur administrative stratum.",
+        "shortDescription": "Regional Security Protocol.",
+        "location": "Near Railway Station, Nilambur",
+        "openStatus": "Open",
+        "openHours": "24 Hours",
+        "contact": "100 / +91 4931 220011",
+        "amenities": [
+            "Constant Patrol",
+            "Emergency Command",
+            "Public Safeguard"
+        ]
+    },
+    {
+        "id": "teak-craft-bazaar",
+        "name": "Teak Craft Bazaar",
+        "slug": "teak-craft-bazaar",
+        "category": "shopping",
+        "rating": 4.7,
+        "featured": true,
+        "coordinates": [
+            11.2780,
+            76.2290
+        ],
+        "priceRange": "$$",
+        "description": "Material Archive node. Premium handcrafted teak assets sourced from specialized regional master craftsmen and industrial artisans.",
+        "shortDescription": "Handcrafted Material Archive Node.",
+        "location": "Market Road, Nilambur",
+        "openStatus": "Open",
+        "openHours": "10:00 - 21:00",
+        "contact": "+91 94470 55667",
+        "amenities": [
+            "Precision Commissions",
+            "Global Logistics Protocol",
+            "Material Process Lab"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1538333758254-8c01d90479da?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1540633169354-9dea29d3b10e?auto=format&fit=crop&q=80&w=1200"
+        ]
+    },
+    {
+        "id": "indian-oil-fuel",
+        "name": "Indian Oil Fuel & EV Station",
+        "slug": "indian-oil-fuel",
+        "category": "fuel",
+        "rating": 4.0,
+        "featured": false,
+        "coordinates": [
+            11.2720,
+            76.2250
+        ],
+        "priceRange": "$$",
+        "images": [
+            "https://images.unsplash.com/photo-1545127398-14699f999348?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "description": "Energy Logistics Node. A critical refueling asset equipped with rapid EV charging matrices and constant supply protocols.",
+        "shortDescription": "Energy Logistics Node.",
+        "location": "Ooty Road, Nilambur",
+        "openStatus": "Open",
+        "openHours": "24 Hours",
+        "contact": "+91 4931 220055",
+        "amenities": [
+            "Charging Matrix",
+            "Pneumatic Supply",
+            "Logistics Essentials"
+        ]
+    }
+]

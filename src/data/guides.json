@@ -1,0 +1,52 @@
+[
+    {
+        "id": "weekend-nilambur",
+        "title": "A Weekend in Nilambur",
+        "subtitle": "The Ultimate 48-Hour Curation",
+        "category": "Curated Guide",
+        "image": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&q=80&w=1200",
+        "description": "A meticulously planned itinerary for those seeking the perfect balance of adventure and tranquility in the valley of teak.",
+        "readTime": "8 min read",
+        "featured": true,
+        "content": [
+            {
+                "type": "heading",
+                "text": "Friday Evening: The Royal Arrival"
+            },
+            {
+                "type": "paragraph",
+                "text": "Begin your journey with a traditional Malabar dinner at Adukkala. The slow-cooked flavors set the tone for a weekend of discovery."
+            },
+            {
+                "type": "heading",
+                "text": "Saturday: Into the Wild"
+            },
+            {
+                "type": "paragraph",
+                "text": "Spend your morning at the Teak Museum and Conolly's Plot. In the afternoon, head to Nedumkayam Rainforest for a guided jungle trail."
+            }
+        ]
+    },
+    {
+        "id": "hidden-gems",
+        "title": "Hidden Gems of the Valley",
+        "subtitle": "Beyond the Teak Museum",
+        "category": "Offbeat",
+        "image": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&q=80&w=1200",
+        "description": "Discover the secret waterfalls and silent viewpoints that only locals know about.",
+        "readTime": "6 min read",
+        "featured": false,
+        "content": []
+    },
+    {
+        "id": "nature-trails",
+        "title": "Nature & Trails Guide",
+        "subtitle": "A Trekker's Manifesto",
+        "category": "Adventure",
+        "image": "https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&q=80&w=1200",
+        "description": "A comprehensive guide to the trekking routes of the Western Ghats around Nilambur.",
+        "readTime": "10 min read",
+        "featured": false,
+        "content": []
+    }
+]

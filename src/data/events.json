@@ -1,0 +1,42 @@
+[
+    {
+        "id": "nilambur-pattutsavam",
+        "name": "Nilambur Pattutsavam",
+        "slug": "nilambur-pattutsavam",
+        "date": "2026-04-15",
+        "location": "Nilambur Kovilakam",
+        "image": "https://images.unsplash.com/photo-1514222139-b576bb5ce003?auto=format&fit=crop&q=80&w=1200",
+        "description": "An ancient temple festival celebrated with traditional music and dance. The Nilambur Vettekkorumakan Paattu is a unique ritualistic dance-music tradition.",
+        "category": "Religious"
+    },
+    {
+        "id": "teak-festival",
+        "name": "Annual Teak Festival",
+        "slug": "teak-festival",
+        "date": "2026-12-10",
+        "location": "Teak Museum Grounds",
+        "image": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&q=80&w=1200",
+        "description": "Celebrating the heritage of teak plantations with exhibitions, timber craft workshops, and forest heritage walks.",
+        "category": "Cultural"
+    },
+    {
+        "id": "chaliyar-boat-race",
+        "name": "Chaliyar River Fest & Boat Race",
+        "slug": "chaliyar-boat-race",
+        "date": "2026-08-20",
+        "location": "Canoli Canal & Chaliyar River",
+        "image": "https://images.unsplash.com/photo-1596484552834-695d3a59579d?auto=format&fit=crop&q=80&w=1200",
+        "description": "A thrilling boat race on the Chaliyar river during the Onam season, attracting teams from all over Malabar.",
+        "category": "Sports"
+    },
+    {
+        "id": "bamboo-workshop",
+        "name": "Eco-Craft Workshop",
+        "slug": "bamboo-workshop",
+        "date": "2026-05-12",
+        "location": "Aruvacode Potters Village",
+        "image": "https://images.unsplash.com/photo-1621648293942-ad402318375b?auto=format&fit=crop&q=80&w=1200",
+        "description": "Learn the art of pottery and bamboo craft from the famous Kumbham artisans of Aruvacode.",
+        "category": "Workshop"
+    }
+]
